@@ -5,7 +5,7 @@
 <p align="center"><img src="./public/images/demo4.PNG"></p>
 <p align="center"><img src="./public/images/demo5.PNG"></p>
 
-## We are going to use Laravel and  Vuejs
+## We are going to use Laravel and  jQuery
 
 ## Installation
 
